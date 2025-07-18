@@ -12,7 +12,8 @@
 
 *MENTOR*:NEELA SANTOSH
 
-Description of the File Handling Utility
+**Description of the File Handling Utility**
+
 This Java application serves as a file handling tool that shows how to use common file I/O operations in Java to write, read, and edit text files. By writing initial content, displaying it, adding more notes, and
 
 displaying the final updated content, users can work with a file (sample.txt).
@@ -32,3 +33,7 @@ Showing Updated Content: The application reads and shows the updated content to 
 Key Java I/O concepts, including file creation, writing, reading, appending, and exception handling, are illustrated by this utility. It guides the interaction with clear console messages and clean code 
 
 practices. Beginners learning file operations and Java's real-time input/output handling will find the program helpful.
+
+**OUTPUT**
+
+<img width="1448" height="398" alt="Image" src="https://github.com/user-attachments/assets/da9e895b-d5d2-4663-aee5-63a6c4c7332e" />
